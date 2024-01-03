@@ -1,0 +1,9 @@
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.Dashboard__tableHead {
+  background-color: #8a8a8a !important;
+}

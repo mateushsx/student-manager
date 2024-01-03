@@ -1,0 +1,11 @@
+.CreateStudent {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.CreateStudent__form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

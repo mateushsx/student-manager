@@ -1,0 +1,17 @@
+.Frequency {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+
+.Frequency__main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Frequency__main-image {
+  width: 400px;
+}
